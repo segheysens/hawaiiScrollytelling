@@ -1,2 +1,2 @@
 # hawaiiScrollytelling
-A Mapbox scrollytelling story about my honeymoon.
+A [Mapbox scrollytelling story](https://github.com/mapbox/storytelling) about my honeymoon.
